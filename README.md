@@ -15,7 +15,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,14 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot of Solution](../images/screenshot.png)
 
 
 
 ### Links
 
-- Solution URL: [https://www.github.com/techanthere](https://www.github.com/techanthere/)
-- Live Site URL: [https://techanthere.github.io](https://techanthere.github.io/)
+- Solution URL: [https://github.com/techanthere/social-proof-section-master](https://github.com/techanthere/social-proof-section-master)
+- Live Site URL: [https://techanthere.github.io/social-proof-section-master](https://techanthere.github.io/social-proof-section-master)
 
 ## My process
 
