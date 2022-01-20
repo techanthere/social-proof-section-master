@@ -308,7 +308,8 @@ h1 {
 
 @media only screen and (min-width: 1440px) {
   .main__content--wrapper {
-    padding: 10rem;
+    padding: 5rem;
+    margin-left: 5rem;
   }
 
   .main__description-text {
